@@ -1,0 +1,65 @@
+.frm{
+    background-color: rgb(231, 224, 214);
+    height: 700px;
+    width: 900px;
+    border-radius: 50px;
+}
+form{
+    padding-top: 30px;
+    padding-left:160px;
+}
+#name{
+    padding: 20px;
+    width: 500px;
+    border-radius: 20px;
+}
+#email{
+    padding: 20px;
+    width: 500px;
+    border-radius: 20px;
+}
+#num{
+    padding: 20px;
+    width: 500px;
+    border-radius: 20px;
+}
+#msg{
+    padding: 20px;
+    width: 500px;
+    border-radius: 20px;
+}
+.btn{
+    width: 540px;
+    height: 50px;
+    color: white;
+    background-color: rgb(85, 79, 79);
+}
+h1{
+    font-size:50px;
+    text-decoration: underline;
+    text-underline-offset: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+img{
+    position: relative;
+    width: 550px;
+    height: 500px;
+    top: 70px;
+}
+.img{
+    position: relative;
+    width: 550px;
+    background-color: rgb(231, 224, 214);
+    left: 950px;
+    height: 700px;
+    bottom: 700px;
+    border-radius:50px ;
+}
+.fa-solid{
+    position: absolute;
+    top: 750px;
+    bottom: 50px;
+    font-size: 20px;
+    margin: 5px;
+    color: black;
+}
